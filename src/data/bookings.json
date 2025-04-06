@@ -9,6 +9,16 @@
         "duration": "30 minutes",
         "price": 50
       }
+    },
+    {
+      "id": 1743939402645,
+      "menteeId": 1,
+      "mentorId": "2",
+      "service": {
+        "title": "Technical Interview Prep",
+        "duration": "45 minutes",
+        "price": 75
+      }
     }
   ]
 }

@@ -1,0 +1,154 @@
+{
+  "mentors": [
+    {
+      "id": 1,
+      "fullname": "Mentor 1",
+      "title": "Senior Developer",
+      "description": "Experienced mentor specializing in web development.",
+      "rating": "4.5",
+      "skills": ["JavaScript", "Node.js", "React"],
+      "services": [
+        { "title": "Code Review", "duration": "30 minutes", "price": 50 },
+        { "title": "Debugging Session", "duration": "60 minutes", "price": 100 },
+        { "title": "Project Consultation", "duration": "90 minutes", "price": 150 }
+      ],
+      "isavailable": true,
+      "avatar": "https://example.com/avatars/mentor1.jpg"
+    },
+    {
+      "id": 2,
+      "fullname": "Mentor 2",
+      "title": "Tech Lead",
+      "description": "Passionate about teaching and helping others grow.",
+      "rating": "3.8",
+      "skills": ["TypeScript", "Python", "Docker"],
+      "services": [
+        { "title": "Technical Interview Prep", "duration": "45 minutes", "price": 75 },
+        { "title": "System Design Workshop", "duration": "90 minutes", "price": 150 },
+        { "title": "Code Optimization", "duration": "60 minutes", "price": 120 }
+      ],
+      "isavailable": true,
+      "avatar": "https://example.com/avatars/mentor2.jpg"
+    },
+    {
+      "id": 3,
+      "fullname": "Mentor 3",
+      "title": "Software Architect",
+      "description": "Expert in backend systems and cloud infrastructure.",
+      "rating": "4.9",
+      "skills": ["Kubernetes", "AWS", "Node.js"],
+      "services": [
+        { "title": "Cloud Migration", "duration": "120 minutes", "price": 300 },
+        { "title": "Microservices Design", "duration": "90 minutes", "price": 250 },
+        { "title": "DevOps Training", "duration": "180 minutes", "price": 500 }
+      ],
+      "isavailable": true,
+      "avatar": "https://example.com/avatars/mentor3.jpg"
+    },
+    {
+      "id": 4,
+      "fullname": "Mentor 4",
+      "title": "Frontend Specialist",
+      "description": "Helping developers master modern frontend frameworks.",
+      "rating": "4.2",
+      "skills": ["React", "Vue.js", "SASS"],
+      "services": [
+        { "title": "Component Design", "duration": "60 minutes", "price": 100 },
+        { "title": "State Management", "duration": "90 minutes", "price": 150 },
+        { "title": "Performance Optimization", "duration": "120 minutes", "price": 200 }
+      ],
+      "isavailable": true,
+      "avatar": "https://example.com/avatars/mentor4.jpg"
+    },
+    {
+      "id": 5,
+      "fullname": "Mentor 5",
+      "title": "Fullstack Engineer",
+      "description": "Building scalable applications from front to back.",
+      "rating": "4.7",
+      "skills": ["JavaScript", "Express.js", "MongoDB"],
+      "services": [
+        { "title": "API Development", "duration": "90 minutes", "price": 150 },
+        { "title": "Database Design", "duration": "120 minutes", "price": 200 },
+        { "title": "Authentication Setup", "duration": "60 minutes", "price": 100 }
+      ],
+      "isavailable": true,
+      "avatar": "https://example.com/avatars/mentor5.jpg"
+    },
+    {
+      "id": 6,
+      "fullname": "Mentor 6",
+      "title": "Data Scientist",
+      "description": "Teaching the art of extracting insights from data.",
+      "rating": "4.0",
+      "skills": ["Python", "Pandas", "Machine Learning"],
+      "services": [
+        { "title": "Data Cleaning", "duration": "60 minutes", "price": 100 },
+        { "title": "Model Training", "duration": "120 minutes", "price": 200 },
+        { "title": "Visualization Techniques", "duration": "90 minutes", "price": 150 }
+      ],
+      "isavailable": true,
+      "avatar": "https://example.com/avatars/mentor6.jpg"
+    },
+    {
+      "id": 7,
+      "fullname": "Mentor 7",
+      "title": "Mobile App Developer",
+      "description": "Expert in building cross-platform mobile applications.",
+      "rating": "4.3",
+      "skills": ["Flutter", "React Native", "Firebase"],
+      "services": [
+        { "title": "UI/UX Design", "duration": "90 minutes", "price": 150 },
+        { "title": "Backend Integration", "duration": "120 minutes", "price": 200 },
+        { "title": "Push Notifications Setup", "duration": "60 minutes", "price": 100 }
+      ],
+      "isavailable": true,
+      "avatar": "https://example.com/avatars/mentor7.jpg"
+    },
+    {
+      "id": 8,
+      "fullname": "Mentor 8",
+      "title": "DevOps Engineer",
+      "description": "Automating workflows and improving deployment pipelines.",
+      "rating": "4.6",
+      "skills": ["Jenkins", "Terraform", "Kubernetes"],
+      "services": [
+        { "title": "CI/CD Pipeline Setup", "duration": "120 minutes", "price": 250 },
+        { "title": "Infrastructure as Code", "duration": "180 minutes", "price": 400 },
+        { "title": "Monitoring Tools Setup", "duration": "90 minutes", "price": 150 }
+      ],
+      "isavailable": true,
+      "avatar": "https://example.com/avatars/mentor8.jpg"
+    },
+    {
+      "id": 9,
+      "fullname": "Mentor 9",
+      "title": "AI Researcher",
+      "description": "Exploring the cutting edge of artificial intelligence.",
+      "rating": "4.8",
+      "skills": ["TensorFlow", "PyTorch", "Deep Learning"],
+      "services": [
+        { "title": "Neural Network Design", "duration": "120 minutes", "price": 250 },
+        { "title": "NLP Techniques", "duration": "180 minutes", "price": 400 },
+        { "title": "Reinforcement Learning", "duration": "240 minutes", "price": 600 }
+      ],
+      "isavailable": true,
+      "avatar": "https://example.com/avatars/mentor9.jpg"
+    },
+    {
+      "id": 10,
+      "fullname": "Mentor 10",
+      "title": "Blockchain Developer",
+      "description": "Building decentralized applications and smart contracts.",
+      "rating": "4.4",
+      "skills": ["Solidity", "Ethereum", "Smart Contracts"],
+      "services": [
+        { "title": "Smart Contract Audit", "duration": "120 minutes", "price": 300 },
+        { "title": "Token Creation", "duration": "90 minutes", "price": 200 },
+        { "title": "DApp Development", "duration": "180 minutes", "price": 450 }
+      ],
+      "isavailable": true,
+      "avatar": "https://example.com/avatars/mentor10.jpg"
+    }
+  ]
+}

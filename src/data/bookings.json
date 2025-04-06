@@ -1,0 +1,14 @@
+{
+  "bookings": [
+    {
+      "id": 1743938492311,
+      "menteeId": 1,
+      "mentorId": "1",
+      "service": {
+        "title": "Code Review",
+        "duration": "30 minutes",
+        "price": 50
+      }
+    }
+  ]
+}

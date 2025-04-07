@@ -83,8 +83,8 @@ export default {
 
     return res.status(200).json({
       status: 'success',
-      length: 1,
-      data: { mentors: [mentor] },
+      length: mentor ? 1 : 0,
+      data: { mentors: mentor ? [mentor] : [] },
     });
   }),
 };
